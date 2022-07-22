@@ -1,6 +1,6 @@
 I am a Full Stack Software Developer having specialization in Backend and Frontend development, and I am passionate about technologies and love to learn new things.
 
-[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.gif)](https://www.devopsor.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.devopsor.com/)<!-- If you want the template for my gif, email me! -->
 
 ### 🔭 Here is my [website](https://devopsor.github.io/).
 
