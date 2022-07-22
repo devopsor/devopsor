@@ -1,10 +1,14 @@
-I am a Full Stack Software Developer having specialization in Backend and Frontend development, and I am passionate about technologies and love to learn new things.
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+
+I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with several successful projects under my belt. A Full Stack Web Developer having specialization in Backend and Frontend development. I have more than 10+ years of experience in Web Development having Backend Skills in SpringBoot, Django and Laravel. I also have Frontend Skills in Javascript, PHP, VueJS, AngularJS, ReactJS and so on.
+
+ ---
 
 [![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.devopsor.com/)<!-- If you want the template for my gif, email me! -->
 
-### 🔭 Here is my [website](https://devopsor.github.io/).
+### Tech Stack
 
-### Languages
+##### Languages
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -17,7 +21,7 @@ I am a Full Stack Software Developer having specialization in Backend and Fronte
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
-### Technologies
+##### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-GCP&logoColor=F90)
@@ -33,7 +37,7 @@ I am a Full Stack Software Developer having specialization in Backend and Fronte
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
-### Full Stack Projects
+##### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://devopsor.github.io/)
 
