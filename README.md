@@ -10,13 +10,13 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 
 ##### Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=F90)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
