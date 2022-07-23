@@ -10,7 +10,7 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 
 ##### Languages
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -24,7 +24,7 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 ##### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-GCP&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud&logoColor=F90)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
