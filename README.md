@@ -21,7 +21,31 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
-##### Technologies
+##### Mobile
+
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+
+##### FrontEnd
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+
+##### BackEnd
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+
+##### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
+![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MYSQL)
+
+##### Cloud
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud&logoColor=F90)
@@ -29,13 +53,6 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 
 ##### Full Stack Projects
 
