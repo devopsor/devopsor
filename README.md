@@ -4,7 +4,7 @@ I'm [Jason Saeki](https://devopsor.github.io/), a self-taught passionate develop
 
 ### About me
 - 💼 A full stack web developer having specialization in backend and frontend development. 
-- ❤️ I love writing web applications in Typescript, SpringBoot, Laravel, Django. 
+- ❤️ Experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
 
 [![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.devopsor.com/)
 
