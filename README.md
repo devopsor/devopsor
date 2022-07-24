@@ -41,6 +41,10 @@ I'm [Jason Saeki](https://devopsor.github.io/), a self-taught passionate develop
 #### Blog
 [![](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
 
-| <a href="https://github.com/devopsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsor&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devopsor's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor" />
+</a>
 
