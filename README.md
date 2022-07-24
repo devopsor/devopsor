@@ -45,6 +45,6 @@ I'm [Jason Saeki](https://devopsor.github.io/), a self-taught passionate develop
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&hide=javascript,css,scss,html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&hide=javascript,css" />
 </a>
 
