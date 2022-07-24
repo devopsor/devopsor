@@ -1,10 +1,13 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with several successful projects under my belt. A Full Stack Web Developer having specialization in Backend and Frontend development. I have more than 10+ years of experience in Web Development having Backend Skills in SpringBoot, Django and Laravel. I also have Frontend Skills in Javascript, PHP, VueJS, AngularJS, ReactJS and so on.
+I'm [Jason Saeki](https://devopsor.github.io/), a self-taught passionate developer.
 
+### About me
+- 💼 A full stack web developer having specialization in backend and frontend development. 
+- ❤️ I love writing web applications in Typescript, SpringBoot, Laravel, Django. 
  ---
 
-[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.devopsor.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.devopsor.com/)
 
 ### Tech Stack
 
@@ -15,35 +18,17 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=F90)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-
-#### MobileApp
-
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=iOS)
 
 #### FrontEnd
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 
 #### BackEnd
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
-![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MYSQL)
 
 #### Cloud
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -53,8 +38,9 @@ I'm [Jason Saeki](https://devopsor.github.io/), an experienced programmer with s
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-##### Full Stack Projects
+#### Blog
 [![](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
 
+| <a href="https://github.com/devopsor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsor&hide_title=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="devopsor's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
-<a href="https://devopsor.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devopsor&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
