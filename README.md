@@ -10,7 +10,7 @@ I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate develop
 - ❤️ Many years of experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
 
 ### My Blog
-[![Blog](https://img.shields.io/badge/-🧬Blog-000)](https://devopsor.github.io/)
+[![Blog](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
 
 ---
 
@@ -42,6 +42,7 @@ I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate develop
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
+#### Statistics
 <a href="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true&theme=cobalt" />
 </a>
