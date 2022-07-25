@@ -36,10 +36,9 @@ I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate develop
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 #### Blog
-[![](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
+[![Blog](https://img.shields.io/badge/-🧬MyBlog-000)](https://devopsor.github.io/)
 
 <a href="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true&theme=cobalt" />
