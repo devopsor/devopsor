@@ -1,13 +1,19 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate developer.
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Go
+- 💬 &nbsp;Ask me about anything related to Java/Javascript/Typescript/Angular/React/Vue.js
+- 👨‍💻 &nbsp;Read more about my projects at [https://devopsor.github.io](https://devopsor.github.io)
 
 [![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.github.com/devopsor)
 
 
 ### About me
-- 💼 A Full Stack web developer having specialization in backend and frontend development. 
-- ❤️ Many years of experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
+- 💼 A Full Stack web developer. 
+- ❤️ 10+ years of experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
 
 ### My Blog
 [![Blog](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
