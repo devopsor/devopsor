@@ -9,6 +9,8 @@ I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate develop
 - 💼 A Full Stack web developer having specialization in backend and frontend development. 
 - ❤️ Experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
 
+---
+
 ### Tech Stack
 
 #### Languages
