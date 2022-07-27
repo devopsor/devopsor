@@ -49,10 +49,9 @@ This is the place where I opensource stuff and break things :rofl:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 #### Statistics
-<a href="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true&theme=cobalt" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor">
   <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&show=java,php,vue,angular&theme=cobalt" />
 </a>
-
+<a href="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true&theme=cobalt" />
+</a>
