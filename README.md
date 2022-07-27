@@ -3,9 +3,10 @@
 I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate developer.
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Go
-- 💬 &nbsp;Ask me about anything related to Java/Typescript/Angular/React/Vue.js
+- 🆒 &nbsp;I’m currently working on something cool :wink:
+- 🍃 &nbsp;I’m currently learning Go
+- ✈️ &nbsp;I can speak English, Japanese, Chinese
+- 💬 &nbsp;Ask me about anything related to Java/Python/Typescript/Angular/React/Vue.js
 - 👨‍💻 &nbsp;Read more about my projects at [https://devopsor.github.io](https://devopsor.github.io)
 
 [![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.github.com/devopsor)
