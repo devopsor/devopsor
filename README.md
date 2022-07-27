@@ -53,6 +53,6 @@ This is the place where I opensource stuff and break things :rofl:
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=devopsor&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor">
-  <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&hide=javascript,css,html&theme=cobalt" />
+  <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsor&hide=javascript,css,scss,html&theme=cobalt" />
 </a>
 
