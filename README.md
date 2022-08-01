@@ -1,4 +1,4 @@
-<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hey there! <img src="https://raw.githubusercontent.com/devopsor/devopsor/master/wave.gif" width="30px"></h4>
 
 I'm [James Saeki](https://devopsor.github.io/), a self-taught passionate developer.
 This is the place where I opensource stuff and break things :rofl:
