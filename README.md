@@ -3,7 +3,6 @@
 I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is the place where I open source stuff.:wink:
 
 - 🆒 &nbsp;I’m currently working on something cool
-- 🍃 &nbsp;I’m currently learning Go
 - ✈️ &nbsp;I can speak English, Japanese, Chinese
 - 💬 &nbsp;Ask me about anything related to Java/Python/Django/Typescript/Angular/React/Vue.js
 - 👨‍💻 &nbsp;Read more about my projects at [https://devopsor.github.io](https://devopsor.github.io)
