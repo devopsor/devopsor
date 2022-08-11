@@ -1,8 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/devopsor/devopsor/master/wave.gif" width="30px"></h4>
 
-I'm [James Saeki](https://devopsor.github.io/), a passionate developer. :wink:
-
-This is the place where I open source stuff.
+I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is the place where I open source stuff.:wink:
 
 - 🆒 &nbsp;I’m currently working on something cool
 - 🍃 &nbsp;I’m currently learning Go
