@@ -2,7 +2,7 @@
 
 I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is the place where I open source stuff.:wink:
 
-- 🆒 &nbsp;I’m currently working on something cool
+- 🆒 &nbsp;I'm currently working on something cool
 - ✈️ &nbsp;I can speak English, Japanese, Chinese
 - 💬 &nbsp;Ask me about anything related to Java/Python/Django/Typescript/Angular/React/Vue.js
 - 👨‍💻 &nbsp;Read more about my projects at [https://devopsor.github.io](https://devopsor.github.io)
@@ -15,7 +15,7 @@ I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is 
 - ❤️ Extensive experience developing applications with Typescript, SpringBoot, Laravel, Django. 
 
 ### My Blog
-[![Blog](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
+[![Blog](https://img.shields.io/badge/-🧬%20Blog-000)](https://devopsor.github.io/)
 
 ---
 
