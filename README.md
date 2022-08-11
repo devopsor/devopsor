@@ -13,7 +13,7 @@ I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is 
 
 ### About me
 - 💼 A Full Stack web developer. 
-- ❤️ 10+ years of experience includes developing custom applications using Typescript, SpringBoot, Laravel, Django. 
+- ❤️ Extensive experience includes developing applications using Typescript, SpringBoot, Laravel, Django. 
 
 ### My Blog
 [![Blog](https://img.shields.io/badge/-🧬%20My%20Blog-000)](https://devopsor.github.io/)
