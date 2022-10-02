@@ -1,3 +1,6 @@
+
+[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.github.com/devopsor)
+
 <h4> Hey there! <img src="https://raw.githubusercontent.com/devopsor/devopsor/master/wave.gif" width="30px"></h4>
 
 I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is the place where I open source stuff.:wink:
@@ -6,8 +9,6 @@ I'm [James Saeki](https://devopsor.github.io/), a passionate developer, this is 
 - ✈️ &nbsp;I can speak English, Japanese, Chinese
 - 💬 &nbsp;Ask me about anything related to Java/Python/Django/Typescript/Angular/React/Vue.js
 - 👨‍💻 &nbsp;Read more about my projects at [https://devopsor.github.io](https://devopsor.github.io)
-
-[![](https://raw.githubusercontent.com/devopsor/devopsor/master/profile.jpg)](https://www.github.com/devopsor)
 
 
 ### About me
